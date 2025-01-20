@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shubhamsanap0306](https://medium.com/@shubhamsanap0306)
 
-- 💬 Ask me about **HTML, CSS, BootStrap, JAVA, JSP, Servlet, MySQL, Hibernate, Spring, SpringBoot, Thymeleaf.**
+- 💬 Ask me about **HTML, CSS, BootStrap, Tailwind CSS, JAVA, JSP, Servlet, MySQL, Hibernate, Spring, SpringBoot, Thymeleaf, PostMan, AWS.**
 
 - 📫 How to reach me **shubhamsanap0306@gmail.com**
 
