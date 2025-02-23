@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **Apani Dukan**
 
 - 🌱 I’m currently learning **SpringBoot, AWS**
 
